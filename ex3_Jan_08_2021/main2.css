@@ -1,0 +1,9 @@
+hr {
+    border: none;
+    border-top: 2px dashed red;
+}
+
+/* 유의할점!!!
+   hr tag의 경우 기본적으로 block 요소이므로
+   사각형의 형태를 띈다. 그렇기 때문에 2px로 지정할 경우
+   최종적으로 선의 두께는 4px이 된다. */
