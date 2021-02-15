@@ -2,3 +2,6 @@ All based on classes of Fastcampus
 
 main_grid1.html & main_grid1.css
 are for learning about 'grid container properties' especially about position of each grid
+
+main_grid2.html & main_grid2.css
+are for learning about 'grid template areas'
