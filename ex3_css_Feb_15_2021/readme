@@ -8,4 +8,4 @@ are for learning about 'grid-template-areas'
 
 main_grid3.html & main_grid3.css
 are for learning about 'grid items' especially about row & column size with content of item. we can set the max size of fit-content.
-also there's a 'min-content' which can make the size as small as it can be.
+also there's a 'min-content' which can make size as small as it can be.
