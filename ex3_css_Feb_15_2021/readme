@@ -5,3 +5,6 @@ are for learning about 'grid container properties' especially about position of 
 
 main_grid2.html & main_grid2.css
 are for learning about 'grid-template-areas'
+
+main_grid3.html & main_grid3.css
+are for learning about 'grid items' especially about row & column size with content of item. we can set the max size of fit-content.
