@@ -1,0 +1,13 @@
+/* 1. easy but not practical (because it is only with js not with html.
+      no need to edit html from the empty one except setting script src)*/
+//var myName = window.prompt("What's your name?");
+// 'prompt' is a method
+
+//console.log("Hello", myName);
+
+
+/* 2. with edited html. which is current edited version of html. */
+
+2021-05-20
+
+Learned about 2 different ways to get the var from user.
